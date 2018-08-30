@@ -1,2 +1,2 @@
 
-playlist = { playlist: { artist: 'BSB', song: 'Everybody' }};
+var playlist = { playlist: { artist: 'BSB', song: 'Everybody' }};
