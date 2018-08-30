@@ -1,5 +1,5 @@
 
 function objects() {
-  var playlist = { artist: 'BSB', song: 'Everybody' };
+  var playlist = { playlist: { artist: 'BSB', song: 'Everybody' }};
   return playlist;
 }
